@@ -30,6 +30,7 @@ class Cash_in extends CI_Controller {
 
 	public function add()
 	{
+		// add new cash 
 		$data['chart']     = $this->cash_in_model->drop_down_option('account_chart',1);
 		$this->load->view('layout/header');
 		$this->load->view('layout/header_closing');
