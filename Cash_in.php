@@ -146,16 +146,6 @@ class Cash_in extends CI_Controller {
 
 	
 	
-/** ------------   Cash_in route  ---------    
-$route['add-cash_in']							= 'cash_in/add_cash_in';
-$route['save-cash_in']							= 'cash_in/save_cash_in';
-$route['edit-cash_in/(:any)']					= 'cash_in/edit_cash_in/$1';
-$route['update-cash_in']							= 'cash_in/update_cash_in';
-$route['view-cash_in/(:any)']					= 'cash_in/view_cash_in/$1';
-$route['delete-cash_in/(:any)']					= 'cash_in/delete_cash_in/$1';
-
- ------------  /.Cash_in route  ---------    */		
-	
 
 }	
 
